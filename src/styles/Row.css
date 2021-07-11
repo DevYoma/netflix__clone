@@ -1,3 +1,8 @@
+.row{
+    margin-left: 20px;
+    color: white;
+}
+
 .row__posters{
     display: flex;
     overflow-y: hidden;
@@ -17,8 +22,23 @@
     transition: transform 450ms;
 }
 
+.row__movie > img{
+    margin-right: 20px !important;
+}
+
 
 .row__poster:hover {
     transform: scale(1.08);
+    opacity: 1;
+}
+
+.row__posterLarge{
+    max-height: 350px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+
+.row__posterLarge:hover{
+    transform: scale(1.09);
     opacity: 1;
 }
