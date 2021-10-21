@@ -10,3 +10,8 @@ A web application that shows a wide variety of award-winning TV shows, movies, a
 ## Stack
 - React JS
 - Netlify Hosting
+
+## What the app looks like
+![netflixShot1](https://user-images.githubusercontent.com/47899828/138364746-ade62afc-349c-49f4-85cd-4d1cc0bbab72.png)
+
+![netflixShot2](https://user-images.githubusercontent.com/47899828/138364774-50f927f7-9189-4bae-afdd-44d093f91d72.png)
